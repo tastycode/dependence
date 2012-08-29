@@ -1,6 +1,4 @@
-
 Dependence
-frozen_time)
 ==========
 
 What?
